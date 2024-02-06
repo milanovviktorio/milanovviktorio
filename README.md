@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Viktorio</h1>
 <h3 align="center">A passionate developer from Bulgaria</h3>
 
-- 🔭 I’m currently working on **MECHKA v2**
+- 🔭 I’m currently working on **My diploma thesis**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **VoIP and Cybersecurity**
 
-- 💬 Ask me about **Embedded**
+- 💬 Ask me about **Embedded, Computer networking**
 
 <p align="left">
 </p>
