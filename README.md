@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Viktorio</h1>
 <h3 align="center">A passionate developer from Bulgaria</h3>
 
-- 🔭 I’m currently working on **My diploma thesis**
+- 🔭 I’m currently working on **Hacktues Projects ([̲̅$̲̅(̲̅ιοο̲̅)̲̅$̲̅])**
 
 - 🌱 I’m currently learning **VoIP and Cybersecurity**
 
 - 💬 Ask me about **Embedded, Computer networking**
+
+- 🤖 A.I. **Enthusiast**
 
 <p align="left">
 </p>
