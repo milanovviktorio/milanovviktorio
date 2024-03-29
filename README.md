@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Viktorio</h1>
 <h3 align="center">A passionate developer from Bulgaria</h3>
 
-- 🔭 I’m currently working on **Hacktues Projects ([̲̅$̲̅(̲̅ιοο̲̅)̲̅$̲̅])**
+- 🔭 I’m currently working on **TuesFest Projects ([̲̅$̲̅(̲̅ιοο̲̅)̲̅$̲̅])**
 
 - 🌱 I’m currently learning **VoIP and Cybersecurity**
 
