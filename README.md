@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Viktorio</h1>
-<h3 align="center">A passionate developer from Bulgaria</h3>
+<h1 align="center">Viktorio Milanov</h1>
+<h3 align="center">A passionate engineer from Bulgaria</h3>
 
 - 🔭 I’m currently working on **TuesFest Projects ([̲̅$̲̅(̲̅ιοο̲̅)̲̅$̲̅])**
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Embedded, Computer networking**
 
-- 🤖 A.I. **Enthusiast**
+- 🤖 A.I. and computer vision **Enthusiast**
 
 <p align="left">
 </p>
