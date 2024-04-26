@@ -2,7 +2,7 @@
 <h3 align="center">A passionate engineer from Bulgaria</h3>
 <br></br>
 
-- 🔭 I’m currently working on **TuesFest Projects ([̲̅$̲̅(̲̅ιοο̲̅)̲̅$̲̅])**
+- 🔭 I’m currently working on **proN**
 
 - 🌱 I’m currently learning **VoIP and Cybersecurity**
 
