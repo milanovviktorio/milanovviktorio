@@ -4,11 +4,13 @@
 
 - 🔭 I’m currently working on **mech-E**
 
-- 🌱 I’m currently learning **VoIP and Cybersecurity**
+- 🌱 I’m currently learning **Automotive engineering and Electrical engineering**
 
-- 💬 Ask me about **Embedded, Computer networking**
+- 💬 Ask me about **Embedded systems, Computer networking**
 
 - 🤖 A.I. and computer vision **Enthusiast**
+
+- 🏎️ Member of **SDU  Formula Student Team**
 
 <p align="left">
 </p>
