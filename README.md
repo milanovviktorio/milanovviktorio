@@ -2,13 +2,13 @@
 <h3 align="center">A determined engineer from Bulgaria</h3>
 <br></br>
 
+- 🏎️⚡ Electrical Lead of **SDU Vikings Formula Student Team**
+- 
 - 🔭 I’m currently working on **mech-E**
 
 - 🌱 I’m currently learning **Electrical engineering**
 
 - 🔋 Passionate about **Electronics, Embedded systems, Computer networking**
-
-- 🏎️⚡ Electrical Lead of **SDU Vikings Formula Student Team**
 
 <p align="left">
 </p>
