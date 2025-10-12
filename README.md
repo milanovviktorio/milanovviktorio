@@ -3,7 +3,7 @@
 <br></br>
 
 - 🏎️⚡ Electrical Lead of **SDU Vikings Formula Student Team**
-- 
+  
 - 🔭 I’m currently working on **mech-E**
 
 - 🌱 I’m currently learning **Electrical engineering**
