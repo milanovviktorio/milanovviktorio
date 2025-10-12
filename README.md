@@ -1,16 +1,14 @@
 <h1 align="center">Viktorio Milanov</h1>
-<h3 align="center">A passionate engineer from Bulgaria</h3>
+<h3 align="center">A determined engineer from Bulgaria</h3>
 <br></br>
 
 - 🔭 I’m currently working on **mech-E**
 
-- 🌱 I’m currently learning **Automotive engineering and Electrical engineering**
+- 🌱 I’m currently learning **Electrical engineering**
 
-- 💬 Ask me about **Embedded systems, Computer networking**
+- 🔋 Passionate about **Electronics, Embedded systems, Computer networking**
 
-- 🤖 A.I. and computer vision **Enthusiast**
-
-- 🏎️ Member of **SDU  Formula Student Team**
+- 🏎️⚡ Electrical Lead of **SDU Vikings Formula Student Team**
 
 <p align="left">
 </p>
